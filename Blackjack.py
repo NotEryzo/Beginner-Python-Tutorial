@@ -1,3 +1,9 @@
+"""
+This is a code-along tutorial and is not my own work. 
+All credit goes to freeCodeCamp.org. 
+
+"""
+
 import random
 
 class Card:
